@@ -13,11 +13,10 @@ The Water Quality Index is based on current concentrations of harmful pollutants
 
 ## About our project -Technologies Used
 Our project includes building an AI predictor model that works on data fed from CSV files about AQI, WQI values and concentration of pollutants in specific regions and their pollution during particular times of the year. Using these data, we can predict future pollution and track the reasons for pollution currently.
-We have built this AI model using Python and libraries. (Arion please add the names here)
+We have built this AI model using Python and libraries.
 
 This AI predictor model is integrated into the website that asks for your location and enables you to predict pollution occurring through your locality.
 Our website is built using 
-->HTML, CSS, Javascript and node.js
-(Varad please add uses of web-Technologies here)
+->HTML, CSS, Javascript and node.js,react js
 we further will shift our frontend to react.js and store collected pollution data in a database(Mongo DB).
 
