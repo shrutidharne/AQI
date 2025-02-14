@@ -20,10 +20,4 @@ Our website is built using
 ->HTML, CSS, Javascript and node.js
 (Varad please add uses of web-Technologies here)
 we further will shift our frontend to react.js and store collected pollution data in a database(Mongo DB).
-## About Us
-Arion Das(Team Lead and ML developer)
-Sagnik(ML developer)  
-Shruti Dharne(Frontend Developer)
-Gaurang(Frontend Developer) 
-Varad(Full-stack Developer) 
-Khush Shah(Frontend Developer)
+
