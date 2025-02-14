@@ -1,6 +1,6 @@
 
 # Carbon-Catchers
-CarbonCatchers is a project created for Smart India Hackathon 2023 that gives a solution for the problem statement(SIH-1324) which is based on the importance of air and water to human existence. 
+CarbonCatchers is a project created  that gives a solution for the problem  on the importance of air and water to human existence. 
 
 Different types of human activities have resulted in environmental destruction and ruin. This project is based on creating an interactive website that uses a complex predictor algorithm to predict future environmental and nature degradation based on the current status of pollution indexes such as AQI(Air Quality Index )  and WQI(Water Quality Index).
 
